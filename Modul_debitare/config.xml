@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>Modul_debitare</name>
+    <displayName><![CDATA[Modul debitare]]></displayName>
+    <version><![CDATA[2.0.0]]></version>
+    <description><![CDATA[Modulul pentru zona de
+personalizare si debitare]]></description>
+    <author><![CDATA[Prologue]]></author>
+    <tab><![CDATA[administration]]></tab>
+	<confirmUninstall><![CDATA[Are you sure you want to uninstall my module?]]></confirmUninstall>
+    <is_configurable>1</is_configurable>
+    <need_instance>1</need_instance>
+	<limited_countries></limited_countries>
+</module>

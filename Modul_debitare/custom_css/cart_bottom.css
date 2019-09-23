@@ -1,0 +1,538 @@
+#cartbottomModal .modal-content {
+    width: 90%;
+    margin: 0 auto
+}
+
+.modal.fade {
+    background-color: rgba(0, 0, 0, .4)
+}
+
+div#cartbottomModal .modal-dialog {
+    max-width: 100%!important;
+    padding: 0 15px
+}
+
+.select-custom {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-flex-wrap: nowrap;
+    -ms-flex-wrap: nowrap;
+    flex-wrap: nowrap;
+    -webkit-box-pack: center;
+    -webkit-justify-content: center;
+    -ms-flex-pack: center;
+    justify-content: center
+}
+
+.select-custom {
+    margin-bottom: 2%
+}
+
+.select-custom .form-group {
+    width: 23%;
+    margin: 0 10px
+}
+
+.select-custom select.form-control {
+    background: #ffff;
+    color: #000;
+    font-size: small;
+    font-weight: 501
+}
+
+.table-responsive {
+    text-align: left
+}
+
+.table-bordered thead td,
+.table-bordered thead th {
+    background: #c1c1c140;
+    border: none;
+    color: #333;
+    font-size: 15px
+}
+
+.table-bordered,
+.table-bordered td,
+.table-bordered th {
+    font-size: 13px
+}
+
+.table-bordered tbody td {
+    padding-top: 7px;
+    padding-bottom: 7px;
+    vertical-align: middle
+}
+
+.angles {
+    width: 20px;
+    height: 20px;
+    border: 1px dashed #28488d;
+    display: inline-block;
+    vertical-align: middle;
+    margin-right: 10px!important;
+}
+
+.border-upper {
+    width: 20px;
+    height: 20px;
+    border-top: 2px solid #2f4d90!important;
+    margin: auto
+}
+
+.border-right {
+    width: 20px;
+    height: 20px;
+    border-right: 2px solid #2f4d90!important;
+    margin: auto
+}
+
+.border-left {
+    width: 20px;
+    height: 20px;
+    border-left: 2px solid #2f4d90!important;
+    margin: auto
+}
+
+.border-bottom {
+    width: 20px;
+    height: 20px;
+    border-bottom: 2px solid #2f4d90!important;
+    margin: auto
+}
+
+span.bin i {
+    color: #28488d;
+    font-weight: 400
+}
+
+span.blue {
+    color: #28488d;
+    font-weight: 600
+}
+
+div#cartbottomModal .modal-content {
+    background-color: #fdfbfb;
+    top: -44px
+}
+
+.table-striped tbody tr:nth-of-type(odd) {
+    background-color: rgba(140, 133, 133, .05)
+}
+
+.table-responsive {
+    overflow-x: visible
+}
+
+.row.small-gutters>.col:nth-child(3) {
+    text-align: left
+}
+
+.row.small-gutters>.col:last-child {
+    min-width: 80px
+}
+
+button.button.btn.btn-default.modal-btn-p img {
+    max-width: 19px;
+    vertical-align: top
+}
+
+div#cartAnglebottomModal .modal-content {
+    background-color: #fdfbfb;
+    width: 63%;
+    margin: auto;
+    transform: translateY(17%)
+}
+
+.common-btn {
+    color: #fff;
+    background: #2f4d90;
+    padding: 4px 20px;
+    text-align: center;
+    text-align: center;
+    margin: auto;
+    display: block;
+    border: 1px solid #2f4d90
+}
+
+.common-btn:hover {
+    background: #e45222
+}
+
+#cartAnglebottomModal .modal-header {
+    background: #f0f0f0;
+    position: relative
+}
+
+#cartAnglebottomModal h4.modal-title {
+    color: #333;
+    font-size: 22px;
+    left: 50%;
+    position: absolute;
+    transform: translateX(-50%)
+}
+
+#cartAnglebottomModal .cust-radio ul.radio-btn {
+    text-align: left
+}
+
+#cartAnglebottomModal .cust-radio ul.radio-btn li {
+    margin-bottom: 5px
+}
+
+#cartAnglebottomModal .cust-radio ul.radio-btn li:last-child {
+    margin-bottom: 0
+}
+
+#cartAnglebottomModal .cust-radio input[type=radio],
+#cartAnglebottomModal .cust-radio ul.radio-btn li span {
+    vertical-align: middle
+}
+
+#cartAnglebottomModal ul.radio-btn li span {
+    margin-left: 5px
+}
+
+#cartAnglebottomModal .cust-radio {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-flex-wrap: nowrap;
+    -ms-flex-wrap: nowrap;
+    flex-wrap: nowrap;
+    -webkit-align-items: center;
+    -ms-flex-align: center;
+    align-items: center;
+    margin-bottom: 10px
+}
+
+#cartAnglebottomModal .cust-radio .form-group {
+    width: 50%;
+    margin-bottom: 0
+}
+#cartAnglebottomModal .cust-radio .angles {
+    margin-left: 10px;
+    margin-right: 0px!important;
+}
+
+#cartAnglebottomModal .cust-product-box {
+    text-align: left
+}
+
+#cartAnglebottomModal .cust-product-box label {
+    display: inline-block;
+    vertical-align: middle;
+    width: 35%;
+    font-size: 12px;
+    font-weight: 500
+}
+
+#cartAnglebottomModal .cust-slect {
+    display: inline-block;
+    vertical-align: middle;
+    width: 64%
+}
+
+#cartAnglebottomModal .cust-slect select.form-control {
+    -webkit-appearance: none;
+    padding-right: 32px;
+}
+
+.cust-radio [type=radio]:checked,
+.cust-radio [type=radio]:not(:checked) {
+    position: absolute;
+    left: -9999px
+}
+
+.cust-radio [type=radio]:checked+label,
+.cust-radio [type=radio]:not(:checked)+label {
+    position: relative;
+    padding-left: 28px;
+    cursor: pointer;
+    line-height: 20px;
+    display: inline-block;
+    color: #666
+}
+
+.cust-radio [type=radio]:checked+label:before,
+.cust-radio [type=radio]:not(:checked)+label:before {
+    content: '';
+    position: absolute;
+    left: 0;
+    top: 2px;
+    width: 16px;
+    height: 16px;
+    border: 1px solid #ddd;
+    border-radius: 100%;
+    background: #fff
+}
+
+.cust-radio [type=radio]:checked+label:after,
+.cust-radio [type=radio]:not(:checked)+label:after {
+    content: '';
+    width: 10px;
+    height: 10px;
+    background: #e45222;
+    position: absolute;
+    top: 5px;
+    left: 3px;
+    border-radius: 100%;
+    -webkit-transition: all .2s ease;
+    transition: all .2s ease
+}
+
+.cust-radio [type=radio]:not(:checked)+label:after {
+    opacity: 0;
+    -webkit-transform: scale(0);
+    transform: scale(0)
+}
+
+.cust-radio [type=radio]:checked+label:after {
+    opacity: 1;
+    -webkit-transform: scale(1);
+    transform: scale(1)
+}
+
+#cartAnglebottomModal .cust-product-box .cust-radio label {
+    width: 100%;
+    margin-bottom: 0
+}
+
+#cartAnglebottomModal .cust-product-box .cust-radio p {
+    margin-bottom: 5px
+}
+
+#cartAnglebottomModal .cust-product-box .cust-radio p:last-child {
+    margin-bottom: 0
+}
+
+h4.modal-title.new-heading {
+    color: #d41;
+    left: 50%;
+    transform: translateX(-50%);
+    position: absolute;
+    font-size: 27px
+}
+
+div#cartbottomModal .modal-header {
+    border: 0;
+    position: relative
+}
+
+th.width-class {
+    min-width: 185px
+}
+
+th.rot-width {
+    min-width: 300px
+}
+
+td.select-form-class .form-control {
+    -webkit-appearance: none
+}
+
+td.select-form-class .form-group {
+    margin-bottom: 0
+} 
+
+//Module Button Css 
+
+.modal-content-p select.form-control {
+    width: 55%
+}
+
+.modal-content-p h4 {
+    padding: 10px;
+    font-size: 24px;
+    text-align: left;
+    background: #66666629
+}
+
+.cart-line-product-actions .panel {
+    margin-right: 9px
+}
+
+.cart-line-product-actions a {
+    float: right;
+    margin-top: 8px
+}
+
+.icon-debitare-icon {
+    color: #00f
+}
+
+.moduleconfig-content .debit-pal {
+    border: 1px solid #1f4088;
+    margin-top: -80px;
+    margin-left: 198px;
+    background: #1f4088;
+    color: #fff
+}
+
+button.button.btn.btn-default.debit-pal {
+    padding: .3rem 1.25rem
+}
+input.modal_input {
+    width: 100%;
+}
+.myOverlayBody {
+    position: fixed;
+    display: none;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(0, 0, 0, 0.19);
+    z-index: 9999;
+    cursor: pointer;
+}
+.myOverlayUpper {
+    position: fixed;
+    display: none;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(0, 0, 0, 0.19);
+    z-index: 2;
+    cursor: pointer;
+}
+.loadingGIFUpper {
+    position: fixed;
+    z-index: 999;
+    height: 2em;
+    width: 2em;
+    overflow: visible;
+    margin: auto;
+    top: -12%;
+    left: 45%;
+    bottom: 10%;
+    right: 62%;
+}
+.loadingGIFUpper img {
+    height: 100px;
+    width: 100px;
+}
+.myOverlay {
+    position: fixed;
+    display: none;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(0, 0, 0, 0.19);
+    z-index: 2;
+    cursor: pointer;
+}
+.loadingGIF {
+    position: fixed;
+    z-index: 999;
+    height: 2em;
+    width: 2em;
+    overflow: visible;
+    margin: auto;
+    top: -12%;
+    left: 38%;
+    bottom: 10%;
+    right: 62%;
+}
+.loadingGIF img {
+    height: 100px;
+    width: 100px;
+}
+.err_msg_input{
+    border: 2px solid red;
+}
+div#productCartbottomangles {
+    cursor: pointer;
+}
+.Success_msg {
+    width: 95%;
+    margin: auto;
+}
+.Success_msg, strong {
+    text-align: center;
+}
+div.cust-slect select.form-control {
+    -webkit-appearance: none;
+    padding-right: 25px;
+}
+.save_cart_bottom_btn {
+    color: #fff;
+    background: #dd4411;
+    padding: 6px 26px;
+    text-align: center;
+    text-align: center;
+    margin: auto;
+    display: block;
+    border: 1px solid #dd4411;
+    border-radius: 9px;
+}
+.remov_cart_bottom_btn {
+    color: #fff;
+    background: #c1c1c1;
+    padding: 6px 26px;
+    text-align: center;
+    text-align: center;
+    margin: auto;
+    display: block;
+    border: 1px solid #c1c1c1;
+    border-radius: 9px;
+}
+/*16-sep-2019*/
+ @media only screen and (max-width:767px){
+div#cartbottomModal .modal-content {
+    top: 0;
+}
+div#cartbottomModal .select-custom .form-group {
+    width: 50%;
+}
+div#cartbottomModal h4.modal-title.new-heading {
+    position: relative !important;
+}
+#cartbottomModal .table-responsive {
+    overflow-x: scroll;
+}
+#cartAnglebottomModal .modal-dialog {
+    transform: translate(-50%,-50%);
+    left: 50%;
+    top: 50%;
+    width: 100%;
+}
+div#cartAnglebottomModal .modal-content {
+    width:90% !important;
+}
+div#cartAnglebottomModal .cust-product-box label {
+    width: 100%;
+}
+div#cartAnglebottomModal .cust-radio {
+    flex-direction: column-reverse;
+    align-items: flex-start;
+}
+div#cartAnglebottomModal .cust-radio .form-group {
+
+}
+div#cartAnglebottomModal .cust-radio .content-cust  {
+    width:100%;
+    padding:20px 0;
+    text-align: left;
+}
+div#cartAnglebottomModal .cust-slect {
+    width:100%;
+}
+button.button.btn.btn-default.debit-pal {
+    float: left;
+    width: 50%;
+    margin:10px auto;
+}
+}
+/*16-sep-2019*/
